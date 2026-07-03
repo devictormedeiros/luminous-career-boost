@@ -414,7 +414,7 @@ function LandingPage() {
               <p className="text-muted-foreground text-sm mt-1">Para quem quer começar a virar o jogo agora.</p>
               <div className="mt-6">
                 <div className="text-sm text-muted-foreground">12x de</div>
-                <div className="font-display text-5xl font-black">R$ 197</div>
+                <div className="font-display text-5xl font-black">R$ 399</div>
                 <div className="text-sm text-muted-foreground">ou R$ 1.997 à vista</div>
               </div>
               <ul className="mt-6 space-y-3 flex-1">
