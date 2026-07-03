@@ -147,8 +147,8 @@ function LandingPage() {
               <Sparkles className="h-3.5 w-3.5" /> Mentoria para esteticistas
             </span>
             <h1 className="mt-6 font-display text-5xl md:text-7xl font-black leading-[0.95]">
-              Da estética <span className="italic text-pink">amadora</span> à profissional{" "}
-              <span className="italic text-pink-hot">disputada</span> na cidade.
+              De <span className="italic text-pink">invisível</span> a{" "}
+              <span className="italic text-pink-hot">desejada</span>: a esteticista que a cidade quer marcar.
             </h1>
             <p className="mt-6 text-lg md:text-xl text-muted-foreground max-w-xl">
               O método que já transformou centenas de esteticistas em referência: agenda cheia,
